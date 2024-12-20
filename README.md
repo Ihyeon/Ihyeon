@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ihyeon%20Github&fontSize=90" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5CC1FF&height=200&section=header&text=Ihyeon%20Github&fontSize=90&textColor=FFFFFF" width="100%"/>
+</p>
+
+<h1 align="center">📚 Tech Stack 📚</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihyeon&show_icons=true&theme=radical)
 
