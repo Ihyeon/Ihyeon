@@ -28,10 +28,12 @@
   </a>
 </div>
 
+<br> <!-- 섹션 사이 간격 추가 -->
+<br>
 <!-- 깃허브 통계 및 언어비율-->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ihyeon&hide=contribs,prs&show_icons=true&theme=graywhite" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihyeon&layout=compact" alt="Top Langs" height="150" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ihyeon&hide=contribs,prs&show_icons=true&theme=graywhite" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihyeon&layout=compact" alt="Top Langs" height="160" />
 </div>
 
 <!-- footer -->
