@@ -25,10 +25,10 @@
 
 <div align="center">
   <h3>🎨 SNS & Portfolio 🎨</h3>
-  <a href="https://your-blog-link">
+  <a href="[https://your-blog-link](https://sim-plism.tistory.com/)">
     <img src="https://img.shields.io/badge/Blog-FC4C02?style=flat&logo=blogger&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:i2hyeonn@gmail.com">
     <img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </div>
