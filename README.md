@@ -10,10 +10,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=DDF4FF&height=170&section=header&text=Ihyeon's%20Github&fontSize=65" />
 </p>
 
-<p align="right">
-  📍<a href="https://sim-plism.tistory.com/">https://sim-plism.tistory.com</a><br> 
-  ✉️ <a href="mailto:i2hyeonn@gmail.com">i2hyeonn@gmail.com</a>
-</p>
+<div align="right">
+  <h3>📫 Connect with Me</h3>
+  <div style="text-align: left; display: inline-block;">
+    <div><strong>Blog:</strong> <a href="https://sim-plism.tistory.com" target="_blank">https://sim-plism.tistory.com</a></div>
+    <div><strong>Email:</strong> <a href="mailto:i2hyeonn@gmail.com">i2hyeonn@gmail.com</a></div>
+  </div>
+</div>
+
+
+<br>
 
 <!-- 기술 스택 -->
 <h1 align="center">📚 Tech Stack 📚</h1>
