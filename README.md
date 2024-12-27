@@ -1,3 +1,10 @@
+<!-- Solved.ac 티어-->
+<div align="right">
+  <a href="http://solved.ac/star13519">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=star13519">
+  </a>
+</div>
+
 <!-- hits 배지 -->
 <div align="right">
   <a href="https://hits.seeyoufarm.com">
