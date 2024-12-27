@@ -40,18 +40,6 @@
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
 </div>
 
-<br> 
-
-<div align="center">
-  <h3>🎨 SNS & Portfolio 🎨</h3>
-  <a href="https://sim-plism.tistory.com/" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/Blog-FC4C02?style=flat-square&logo=blogger&logoColor=white" />
-  </a>
-  <a href="mailto:i2hyeonn@gmail.com" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
 <br><br>
 
 <!-- 깃허브 통계 및 언어비율-->
