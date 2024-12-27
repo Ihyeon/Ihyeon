@@ -28,7 +28,7 @@
   <a href="https://sim-plism.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-FC4C02?style=flat&logo=blogger&logoColor=white" />
   </a>
-  <a href="mailto:i2hyeonn@gmail.com">
+  <a href="i2hyeonn@gmail.com">
     <img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </div>
