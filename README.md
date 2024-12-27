@@ -1,10 +1,3 @@
-<!-- hits 배지 -->
-<div align="right">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIhyeon%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23DCDDFC&title=hits&edge_flat=true" />
-  </a>
-</div>
-
 <!-- Solved.ac 티어-->
 <div align="right">
   <a href="http://solved.ac/star13519">
@@ -54,3 +47,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=DDF4FF&height=140&section=footer&text=%&fontSize=10" />
 </p>
+
+<!-- hits 배지 -->
+<div align="right">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIhyeon%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23DCDDFC&title=hits&edge_flat=true" />
+  </a>
+</div>
