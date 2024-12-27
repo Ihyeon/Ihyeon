@@ -25,7 +25,7 @@
 
 <div align="center">
   <h3>🎨 SNS & Portfolio 🎨</h3>
-  <a href="[https://your-blog-link](https://sim-plism.tistory.com/)">
+  <a href="https://sim-plism.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-FC4C02?style=flat&logo=blogger&logoColor=white" />
   </a>
   <a href="mailto:i2hyeonn@gmail.com">
