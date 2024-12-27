@@ -10,6 +10,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=DDF4FF&height=170&section=header&text=Ihyeon's%20Github&fontSize=65" />
 </p>
 
+<p align="right">
+  <strong>Connect with me:</strong><br>
+  <a href="https://sim-plism.tistory.com/">Blog</a> | 
+  <a href="mailto:i2hyeonn@gmail.com">Email</a>
+</p>
+
 <!-- 기술 스택 -->
 <h1 align="center">📚 Tech Stack 📚</h1>
 
