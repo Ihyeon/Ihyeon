@@ -1,3 +1,10 @@
+<!-- hits 배지 -->
+<div align="right">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIhyeon%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23DCDDFC&title=hits&edge_flat=true" />
+  </a>
+</div>
+
 <!-- header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ihyeon's%20Github&fontSize=80" />
@@ -47,13 +54,6 @@
 </div>
 
 <br>
-
-<!-- hits 배지 -->
-<div align="right">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIhyeon%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23DCDDFC&title=hits&edge_flat=true" />
-  </a>
-</div>
 
 <!-- footer -->
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
