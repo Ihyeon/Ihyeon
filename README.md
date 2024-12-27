@@ -14,7 +14,7 @@
 
 <!-- header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Ihyeon's%20Github&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Ihyeon's%20Github&fontSize=65" />
 </p>
 
 <!-- 기술 스택 -->
@@ -44,10 +44,10 @@
 
 <div align="center">
   <h3>🎨 SNS & Portfolio 🎨</h3>
-  <a href="https://sim-plism.tistory.com/">
+  <a href="https://sim-plism.tistory.com/" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Blog-FC4C02?style=flat-square&logo=blogger&logoColor=white" />
   </a>
-  <a href="mailto:i2hyeonn@gmail.com">
+  <a href="mailto:i2hyeonn@gmail.com" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -64,5 +64,5 @@
 
 <!-- footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=%&fontSize=10" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=%&fontSize=10" />
 </p>
