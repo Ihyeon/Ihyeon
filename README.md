@@ -14,7 +14,7 @@
 
 <!-- header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ihyeon's%20Github&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Ihyeon's%20Github&fontSize=70" />
 </p>
 
 <!-- 기술 스택 -->
@@ -63,4 +63,6 @@
 <br>
 
 <!-- footer -->
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=%&fontSize=10" />
+</p>
