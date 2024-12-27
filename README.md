@@ -11,7 +11,7 @@
 </p>
 
 <p align="right">
-  <strong>Connect with me:</strong><br>
+  <strong>Connect with me:</strong>
   <a href="https://sim-plism.tistory.com/">Blog</a> | 
   <a href="mailto:i2hyeonn@gmail.com">Email</a>
 </p>
