@@ -1,6 +1,6 @@
 <!-- header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ihyeon%20Github&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ihyeon%20Github&fontSize=80" />
 </p>
 
 <!-- 기술 스택 -->
