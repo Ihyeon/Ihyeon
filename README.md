@@ -11,9 +11,8 @@
 </p>
 
 <p align="right">
-  <strong>Connect with me:</strong>
-  <a href="https://sim-plism.tistory.com/">Blog</a> | 
-  <a href="mailto:i2hyeonn@gmail.com">Email</a>
+  📍<a href="https://sim-plism.tistory.com/">https://sim-plism.tistory.com</a><br> 
+  ✉️ <a href="mailto:i2hyeonn@gmail.com">i2hyeonn@gmail.com</a>
 </p>
 
 <!-- 기술 스택 -->
