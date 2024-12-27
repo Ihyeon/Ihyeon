@@ -8,17 +8,22 @@
 
 <div align="center">
   <h3>✨ Platforms & Languages ✨</h3>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=CSS3&logoColor=white" />
 </div>
 
 <br>
 
 <div align="center">
   <h3>🛠️ Tools 🛠️</h3>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=flat-square&logo=intellij%20idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
 </div>
 
 <br> 
@@ -26,10 +31,10 @@
 <div align="center">
   <h3>🎨 SNS & Portfolio 🎨</h3>
   <a href="https://sim-plism.tistory.com/">
-    <img src="https://img.shields.io/badge/Blog-FC4C02?style=flat&logo=blogger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-FC4C02?style=flat-square&logo=blogger&logoColor=white" />
   </a>
   <a href="mailto:i2hyeonn@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
 
