@@ -1,6 +1,6 @@
 <!-- Solved.ac 티어-->
 <div align="right">
-  <a href="http://solved.ac/star13519">
+  <a href="http://solved.ac/blue_bird">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=star13519">
   </a>
 </div>
