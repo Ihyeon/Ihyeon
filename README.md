@@ -7,7 +7,7 @@
 
 <!-- header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DDF4FF&height=170&section=header&text=Ihyeon's%20Github&fontSize=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DDF4FF&height=170&section=header&text=Ihyeon's%20GitHub&fontSize=65" />
 </p>
 
 <div align="right">
